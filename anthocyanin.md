@@ -23,3 +23,6 @@ Moreover, addition of `catechol` or `catechin` poriton as well as the `o-dimetho
 
 # Materials and Methods
 
+## Strains and Media
+
+*E.coli* DH5ɑ was used propagate all plasmids and LB medium (sigma) supplemented with specific antibiotics (80 μg/mL ampicillin, and 25 μg/mL chloramphenicol) depending on resistance genes used for cell growth at 37 °C. *E.coli* `BL21 Star (DE3)` and `rpoA14 (DE3)` were tested as the hosts for production of anthocyanins (C3G) and `hyrdoxylphenolic compounds (VP and VCAT),` respectively...
