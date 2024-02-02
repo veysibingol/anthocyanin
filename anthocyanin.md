@@ -31,9 +31,14 @@ Moreover, addition of `catechol` or `catechin` poriton as well as the `o-dimetho
 
 All the strains and plasmids used in this study are listed in the `Table S1`. Anthocyanin production module and phenylpropanoic acid module for *p-coumaric acid* were constructed previously in our lab. For caffeic acid production, `pZE-TH2` was used. The *`padC`* gene (phenolic acid decaroxylase, PAD) was amplified from the plasmid pJK-kanR-proJK1-PAD which was a gift feom Timothy Whitehead and was cloned into pACM4 via *`NdeI/XhoI`*. The resulting plasmid was denoted as pACM4-PAD. The primers used for PAD gene amplification were PAD_F (5ʹ-TATACATATGGGCATGGAAAACTTTAT-3ʹ) and PAD_R (5ʹ-GGTGCTCGAGTCATAAGCGACCTGCTC-3ʹ). All plasmids were transformed into host strains by the calcium chloride method and selected on LB plates with required antibiotics
 
+To achieve the conversion of `p-coumaric acid to VP by PAD enzyme`, pACM4-PAD was co-transformed with p-coumaric acid producer plasmid (pXPA-fapO-RgTALsyn) into the two different E. coli strains. `First, tyrosine over-producer strain rpoA14 (DE3) cells were co-transformed with these two plasmids and grown in AMM medium to test VP production capacity. Secondly, BL21 Star™ (DE3) cells were co-transformed with the same plasmids and grown in AMM medium supple mented with 2.5mM tyrosine to achieve increased VP production`.
+
+# PAD Activity
+
+Briefly, total protein was extracted from mid-exponential growing *E. coli BL21 Star^tm (DE3)* cells carrying pACM4-PAD or pACM4- respectively. The decarboxylation of p-coumaric acid was conducted in 200μL of phosphate buffer (50mM, pH 7.0) containing 2.5 mM p-coumaric acid and 300μg/mL total protein at 37°C for 10 min. The reaction products were identified and quantified by HPLC. 
 
 
-| (**Table 1:** Chromatographic properties of synthesized pyranoanthocyanins)         |
+| (**Table 1:** Chromatographic properties of synthesized pyranoanthocyanins)    |
 | ------------------------------------------------------------------------------ |
 
 
