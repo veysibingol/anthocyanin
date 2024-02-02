@@ -66,3 +66,11 @@ Co-culture studies were conducted in 20 mL of AMM medium in 125-mL nonbaffled sh
 The fermentation medium was inoculated with overnight *E. coli* strains according to the optimized inoculation ratio. The 4 h or 5 h induced co-cultures were grown for 24 h after induction and culture supernatants were harvested by centrifugation. Next, the pH of the supernatant was adjusted to 1.6 or 3.2 using 1M HCl, followed by the supplementation of different volumes of ethanol (15% or 30%, v/v). 
 
 Subsequently, the mixture was incubated at 30 °C or 37 °C for different time periods and samples were taken periodically for HPLC analysis. To avoid evaporation, the tubes were capped tightly and sealed with parafilm. The first and last volumes of reaction medium were noted and the last calculations were made according to that. 
+
+## Metabolic analysis
+
+For analysis of VP and VCAT titers in monoculture, fermantation broth was mixed with an equal volume of ethanol, followed by 10-s vortexing and 10 min centrifugation at 21,000g. For C3G quantificaiton, the cell culture was mixed with acidified methanol (1%HCl, v/v) and the supernatant was used for analysis. 
+
+Vp and VCAT (3,4- Dİhydroxy styrene) stock solutions of diffeent concentrations were prepared by dissolving in ethanol and methanol/ultrapure water (1:1, v/v), respectively. Standard stock solutions of C3G (extrasynthese) were preapared in dimethyl sulfoxide. Samples or standard solutions (10 μL) were injected for analysis on an agilent 1200 series HPLC equipped with a ZORBAX SB-C18 analytical column (150 mm x 4,6 mm, 5 μm) and a diode array detector (DAD). 
+
+Two solvents were used as mobile phases: acetonitrile (solvent A) and water (solvent B), both containing 0,1% formic acid. A flow rate of 0.5 ml/min was used with the following gradients: 10-35% A (0-3 min), 35-70% A (3-20 min), 100% A(20-30 min) and 10% A (30-40 min). Absorbances at 260 nm (for VP and VCAT) and at 518 nm (for C3G) were monitored. The concentrations of VP, VCAT and C3G in the samples were queantified using the standards, pyranoanthocyanins concentrations were calculated using the C3G standard curve at 500 nm as desired in the literature. 
