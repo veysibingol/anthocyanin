@@ -61,5 +61,8 @@ Co-culture studies were conducted in 20 mL of AMM medium in 125-mL nonbaffled sh
 
 ![Figure 1 part1](image-1.png) ![Figure 1 part2](image-2.png)
 
+## Optimization of Pyranoanthocyanin production
 
+The fermentation medium was inoculated with overnight *E. coli* strains according to the optimized inoculation ratio. The 4 h or 5 h induced co-cultures were grown for 24 h after induction and culture supernatants were harvested by centrifugation. Next, the pH of the supernatant was adjusted to 1.6 or 3.2 using 1M HCl, followed by the supplementation of different volumes of ethanol (15% or 30%, v/v). 
 
+Subsequently, the mixture was incubated at 30 °C or 37 °C for different time periods and samples were taken periodically for HPLC analysis. To avoid evaporation, the tubes were capped tightly and sealed with parafilm. The first and last volumes of reaction medium were noted and the last calculations were made according to that. 
