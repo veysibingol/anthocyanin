@@ -33,19 +33,33 @@ All the strains and plasmids used in this study are listed in the `Table S1`. An
 
 To achieve the conversion of `p-coumaric acid to VP by PAD enzyme`, pACM4-PAD was co-transformed with p-coumaric acid producer plasmid (pXPA-fapO-RgTALsyn) into the two different E. coli strains. `First, tyrosine over-producer strain rpoA14 (DE3) cells were co-transformed with these two plasmids and grown in AMM medium to test VP production capacity. Secondly, BL21 Star™ (DE3) cells were co-transformed with the same plasmids and grown in AMM medium supple mented with 2.5mM tyrosine to achieve increased VP production`.
 
-## PAD Activity
-
-Briefly, total protein was extracted from mid-exponential growing *E. coli BL21 Star^tm (DE3)* cells carrying pACM4-PAD or pACM4- respectively. The decarboxylation of p-coumaric acid was conducted in 200μL of phosphate buffer (50mM, pH 7.0) containing 2.5 mM p-coumaric acid and 300μg/mL total protein at 37°C for 10 min. The reaction products were identified and quantified by HPLC. 
-
-
-| (**Table 1:** Chromatographic properties of synthesized pyranoanthocyanins)    |
-| ------------------------------------------------------------------------------ |
-
+**Table 1:** Chromatographic properties of synthesized pyranoanthocyanins
 
 |   C3G adduct    | Retention time | Molecular İon | Aglycon | Molecular formula |
 | :-------------: | :------------: | :-----------: | :-----: | :---------------: |
 | 4-vinylpehnol   |      17.15     |      565      |   403   |      C29H25O12    |
 | 4-vinylcathecol |      15.75     |      581      |   419   |      C29H25O14    |
+
+
+
+
+## PAD Activity
+
+Briefly, total protein was extracted from mid-exponential growing *E. coli BL21 Star^tm (DE3)* cells carrying pACM4-PAD or pACM4- respectively. The decarboxylation of p-coumaric acid was conducted in 200μL of phosphate buffer (50mM, pH 7.0) containing 2.5 mM p-coumaric acid and 300μg/mL total protein at 37°C for 10 min. The reaction products were identified and quantified by HPLC. 
+
+## Synthesis of pyranoanthocyanins and stability assay
+
+In order to synthesize pyranoanthocyanidin-3-=-glucoside-phenol, 1 g/L of C3G was mixed with 4 g/L VP in distiled water at pH 3.2 or 30% ethaanol/water at pH 3.2 (adjusted with HCL). reaction mixture were incubated at 37 °C for 5 days and then analyzed by HPLC and LC-MS. In case of synthesis of pyranocyanidin-3-O-glucoside-catechol, 1 g/L of C3G was mixed with 5 g/L VCAT in 30% ethanol/water at pH 3.2 and incubated at  37 °C for 5 days.
+
+`Stability of synthesized pyranoanthocyanidin-3-O-glucoside-pehnol in comparison to C3G was tested at pH 7.0, in room temperature. For this, approximately 20 mg/L of Pyranoanthocyanin or C3G were incubated at these conditions for 4 days and quantified by HPLC.`
+
+Before conducting co-culture fermentations, production capacities of each module in mono-culture conditions were tested. 125-mL nonbaffled shake flasks containing 20 mL of medium were used for production of VP, VCAT and C3G. For this purpose , AMM medium was inoculated with 2% overnight *E. coli* cultures and cultivated at t 37 °C and 225 rpm. The cultures were induced at different time points (4 h or 5 h or 6 h) with 1mM IPTG (ısopropyl-β-d-thiogalactopyranoside) and grown at 30 °C with shaking at 225 rpm. For C3G producttion, 1g/L (+)-catechin dissolved in dimethylformamide/ethonol (8:2, v/v) was added to the medium at diferent induction points. all cultures were sampled at 24 h, 48 h, and 72 h post induction for product quantification. 
+
+The E. coli strains used in co-culture experiments are shown in `Fig. 1`. To produce vinylphenol-pyranoanthocyanins, Module 1A [BL21 Star™ (DE3) carrying pXPA-fapO-RgTALsyn and pACM4-PAD] and Module 2 [BL21 Star™ (DE3) carrying pETM6-At3GT-m-PhANS and pACM4] were used. In this case, fermentation medium (AMM with 20 g/L glucose) was supplemented with 2.5 mM tyrosine. To produce vinylcatechol-pyranoanthocyanins, Module 1B [rpoA14 (DE3) carrying pZE-TH2 and pACM4-PAD] and Module 2 were used. The cultures were grown in AMM with 20 g/L glucose.
+
+Co-culture studies were conducted in 20 mL of AMM medium in 125-mL nonbaffled shake flasks. The medium was inoculated with two overnight E. coli cultures at different volumetric inoculation ratios (1:1, 1:3 and 3:1) and total inocula of 0.4 mL. `The co-culture was performed at 37 °C and 225 rpm. The cultures were induced at different induction points (4 h, 5 h or 6 h) with 1 mM IPTG; 1 g/L (+)-catechin was added to the culture medium together with IPTG. After induction and substrate supplementation, co-cultures were grown at 30 °C and 225 rpm.` The quantification of pyranoanthocyanins from co-cultures was tested at 24 h, 48 h or 72 h after induction. For 5 h induced co-cultures, the concentration of produced precursors’ was calculated at 24 h after induction.
+
+![Figure 1 part1](image-1.png) ![Figure 1 part2](image-2.png)
 
 
 
