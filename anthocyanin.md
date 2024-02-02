@@ -33,7 +33,7 @@ All the strains and plasmids used in this study are listed in the `Table S1`. An
 
 To achieve the conversion of `p-coumaric acid to VP by PAD enzyme`, pACM4-PAD was co-transformed with p-coumaric acid producer plasmid (pXPA-fapO-RgTALsyn) into the two different E. coli strains. `First, tyrosine over-producer strain rpoA14 (DE3) cells were co-transformed with these two plasmids and grown in AMM medium to test VP production capacity. Secondly, BL21 Star™ (DE3) cells were co-transformed with the same plasmids and grown in AMM medium supple mented with 2.5mM tyrosine to achieve increased VP production`.
 
-# PAD Activity
+## PAD Activity
 
 Briefly, total protein was extracted from mid-exponential growing *E. coli BL21 Star^tm (DE3)* cells carrying pACM4-PAD or pACM4- respectively. The decarboxylation of p-coumaric acid was conducted in 200μL of phosphate buffer (50mM, pH 7.0) containing 2.5 mM p-coumaric acid and 300μg/mL total protein at 37°C for 10 min. The reaction products were identified and quantified by HPLC. 
 
