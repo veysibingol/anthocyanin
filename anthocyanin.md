@@ -79,3 +79,6 @@ Two solvents were used as mobile phases: acetonitrile (solvent A) and water (sol
 
 The reaction products (pyranoanthocyanidin-3-O-glucoside-phenol and pyranocyanidin-3-O-glucoside-catechol) were purified via HPLC with 40 μL injection volume according to the same HPLC protocol (1 mL/min flow rate used instead of 0.5 mL/min) and their structures were identified by measuring high resolution high mass accuracy mass spectra
 
+## HPLC-MS Analysis
+
+Chromatographic separation was performed on Agilent 1200 HPLC system (Agilent Technologies, Santa Clara, CA, USA) using Agilent ZORBAX Eclipse XDB-C18 (4.6 × 150 mm, 5μm) column, with injection volume of 5–8 μL. Water and acetonitrile each containing 0.2% formic acid were used as solvents A and B, respectively, at a flow rate of 250 μL/min, using the following gradients: 10–35% B (0−3min), 35–70% B (3−20min), 100% B (20–30 min) and 10% B (30–40min). Mass spectral analyses were performed on Thermo LTQ Orbitrap XL (Thermo, Bremen, Germany) instrument with electrospray ionization (ESI), positive-ion mode at the resolution of 30,000 and with mass accuracy better than 3 ppm in both MS and MSMS modes.
