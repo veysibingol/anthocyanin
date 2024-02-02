@@ -2,6 +2,7 @@
 title: "Production of pyranoanthocyanins using Escherichia coli co-cultures"
 author: "Veysi Bingöl"
 date: "01/02/2024"
+bibliography: "references.bib"
 ---
 
 # ıntroduction
@@ -10,7 +11,7 @@ Anthocyanins also hold promise as natural colorants for food and cosmetics indus
 
 In addition, anthocyanin usage is limited due to their color instability that is affected by various physical parameters, such as light, oxygen, and pH that can cause their interconversion between red and blue forms and lead to color loss or color changes.
 
-While deuteration `(Chemical deuteration involves deuterating whole molecules or building blocks for the synthesis of a desired molecule by exposing them to heavy water (deuterium oxide) at high temperatures and pressures in the presence of a catalyst.)` has been shown to improve the stability of these molecules, such an approach is limited by relatively low titers of the deuterated products
+While deuteration `(Chemical deuteration involves deuterating whole molecules or building blocks for the synthesis of a desired molecule by exposing them to heavy water (deuterium oxide) at high temperatures and pressures in the presence of a catalyst.)` has been shown to improve the stability of these molecules, such an approach is limited by relatively low titers of the deuterated products [@burton-freeman_chapter_2016].
 
 Among the more than 600 anthocyanin molecules that have been identified in nature, pyranoanthocyanins are the most chemically complex. They are mostly foun in red wines and are formed during winemaking and wine maturation process by the condensation of grape anthocyanins with ceratin yeast metabolites or other compounds containing a polarizable double bond such as acetaldehyde, pyruvic acid, hydroxycinnamic acids and vinylphenols. 
 
