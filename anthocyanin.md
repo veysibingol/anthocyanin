@@ -74,3 +74,8 @@ For analysis of VP and VCAT titers in monoculture, fermantation broth was mixed 
 Vp and VCAT (3,4- Dİhydroxy styrene) stock solutions of diffeent concentrations were prepared by dissolving in ethanol and methanol/ultrapure water (1:1, v/v), respectively. Standard stock solutions of C3G (extrasynthese) were preapared in dimethyl sulfoxide. Samples or standard solutions (10 μL) were injected for analysis on an agilent 1200 series HPLC equipped with a ZORBAX SB-C18 analytical column (150 mm x 4,6 mm, 5 μm) and a diode array detector (DAD). 
 
 Two solvents were used as mobile phases: acetonitrile (solvent A) and water (solvent B), both containing 0,1% formic acid. A flow rate of 0.5 ml/min was used with the following gradients: 10-35% A (0-3 min), 35-70% A (3-20 min), 100% A(20-30 min) and 10% A (30-40 min). Absorbances at 260 nm (for VP and VCAT) and at 518 nm (for C3G) were monitored. The concentrations of VP, VCAT and C3G in the samples were queantified using the standards, pyranoanthocyanins concentrations were calculated using the C3G standard curve at 500 nm as desired in the literature. 
+
+## Purification of Pyranoanthocyanins by HPLC
+
+The reaction products (pyranoanthocyanidin-3-O-glucoside-phenol and pyranocyanidin-3-O-glucoside-catechol) were purified via HPLC with 40 μL injection volume according to the same HPLC protocol (1 mL/min flow rate used instead of 0.5 mL/min) and their structures were identified by measuring high resolution high mass accuracy mass spectra
+
