@@ -67,7 +67,7 @@ The fermentation medium was inoculated with overnight *E. coli* strains accordin
 
 Subsequently, the mixture was incubated at 30 °C or 37 °C for different time periods and samples were taken periodically for HPLC analysis. To avoid evaporation, the tubes were capped tightly and sealed with parafilm. The first and last volumes of reaction medium were noted and the last calculations were made according to that. 
 
-## Metabolic analysis
+## Metabolite analysis
 
 For analysis of VP and VCAT titers in monoculture, fermantation broth was mixed with an equal volume of ethanol, followed by 10-s vortexing and 10 min centrifugation at 21,000g. For C3G quantificaiton, the cell culture was mixed with acidified methanol (1%HCl, v/v) and the supernatant was used for analysis. 
 
