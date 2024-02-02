@@ -26,3 +26,21 @@ Moreover, addition of `catechol` or `catechin` poriton as well as the `o-dimetho
 ## Strains and Media
 
 *E.coli* DH5ɑ was used propagate all plasmids and LB medium (sigma) supplemented with specific antibiotics (80 μg/mL ampicillin, and 25 μg/mL chloramphenicol) depending on resistance genes used for cell growth at 37 °C. *E.coli* `BL21 Star (DE3)` and `rpoA14 (DE3)` were tested as the hosts for production of anthocyanins (C3G) and `hyrdoxylphenolic compounds (VP and VCAT),` respectively...
+
+## Plasmid and strain constructcion
+
+All the strains and plasmids used in this study are listed in the `Table S1`. Anthocyanin production module and phenylpropanoic acid module for *p-coumaric acid* were constructed previously in our lab. For caffeic acid production, `pZE-TH2` was used. The *`padC`* gene (phenolic acid decaroxylase, PAD) was amplified from the plasmid pJK-kanR-proJK1-PAD which was a gift feom Timothy Whitehead and was cloned into pACM4 via *`NdeI/XhoI`*. The resulting plasmid was denoted as pACM4-PAD. The primers used for PAD gene amplification were PAD_F (5ʹ-TATACATATGGGCATGGAAAACTTTAT-3ʹ) and PAD_R (5ʹ-GGTGCTCGAGTCATAAGCGACCTGCTC-3ʹ). All plasmids were transformed into host strains by the calcium chloride method and selected on LB plates with required antibiotics
+
+
+
+| (**Table 1:** Chromatographic properties of synthesized pyranoanthocyanins)         |
+| ------------------------------------------------------------------------------ |
+
+
+|   C3G adduct    | Retention time | Molecular İon | Aglycon | Molecular formula |
+| :-------------: | :------------: | :-----------: | :-----: | :---------------: |
+| 4-vinylpehnol   |      17.15     |      565      |   403   |      C29H25O12    |
+| 4-vinylcathecol |      15.75     |      581      |   419   |      C29H25O14    |
+
+
+
