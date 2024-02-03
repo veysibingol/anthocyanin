@@ -100,4 +100,15 @@ High final titer of VCAT production from rpoA14 (DE3) cells (module 1B) compared
 
  ![Figure 4](image-5.png)
 
- 
+ ## Confirmation of Pyranoanthocyanin Formation
+
+ Since pyranoanthocyanin standards are not commercially available, an in vitro reaction was designed to synthesize pyranoanthocyanins by chemical synthesis. Formation of pyranocyanidin-3-o-glucoside-phenol was observed after a 5 day reaction at 37 °C `Based on the fact that in nature, pyranoanthocyanins are formed during wine fermantation by yeast, we decided to test the effect of ethanol on pyranoanthocyanin formation. When no ethanol was present in the reaction mixture, a final pyranoanthocyanin concentration of 64 mg/L was achieved`. However, in the presence of ethanol, the final pyranoanthocyanin concentration reached 353 mg/L.
+
+ The reaction mixture was purified by HPLC and analyzed by LC-Ms. The elemental composition of pyranocyanidin-3-O-glucoside-phenol was confirmed by high resolution mass measurements to be the protonated molecule at (m/z) 565. The only fragmentation in MS-MS analysis was observed at m/z 403 and it corresponded to the loss of the carbohydrate unit `(figure 5a)`
+
+ ![Figure 5a](image-6.png)
+
+The same optimized conditions were accomplished for synthesis of 4-vinylcatechol-pyranoanthocyanins by reactions of C3G and VCAT at low pH and in the presence of ethanol. 
+
+
+
