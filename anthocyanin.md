@@ -84,3 +84,20 @@ The reaction products (pyranoanthocyanidin-3-O-glucoside-phenol and pyranocyanid
 Chromatographic separation was performed on Agilent 1200 HPLC system (Agilent Technologies, Santa Clara, CA, USA) using Agilent ZORBAX Eclipse XDB-C18 (4.6 × 150 mm, 5μm) column, with injection volume of 5–8 μL. Water and acetonitrile each containing 0.2% formic acid were used as solvents A and B, respectively, at a flow rate of 250 μL/min, using the following gradients: 10–35% B (0−3min), 35–70% B (3−20min), 100% B (20–30 min) and 10% B (30–40min). Mass spectral analyses were performed on Thermo LTQ Orbitrap XL (Thermo, Bremen, Germany) instrument with electrospray ionization (ESI), positive-ion mode at the resolution of 30,000 and with mass accuracy better than 3 ppm in both MS and MSMS modes.
 
 # Results
+## Production of 4-vinylphenol, 4-vinylcatechol and Cyanidin-3-O- glucoside From *E. coli* Monocultures
+
+Two different *E. coli* strains were tested to produce VP. Firstly, rpoA14 (DE3) was transformed with VP production module (pXPA-fapO-RgTAL^syn/pACM4-PAD) and grown in AMM medium containing 2% glucose for 24 h or 48 sh. The strain could produce nearly 140 and 220 mg/L *p-coumaric acid* at 24 h and 48 h respectively, while final titers of only 6.6 and 3.2 mg/L of VP were achieved, revealing very poor conversion of p-coumaric acid to VP. 
+
+The very low conversion efficiency of p-coumaric acid to VP led us to monitor the activity of PAD enzyme in the recombinant strain. However, in vitro PAd activity showed that PAD enzyme successfully converts all *p-coumaric acid* to VP (Figure S2), indicating that low conversion rate in rpoA14 (DE3) cells was possibly due to toxic effects VP on this strain. In order to address this problem, the VP production module plasmöid was into BL21 star^tm (DE3) cells. As shownin `Figure 2`, BL21 Star^tm (DE3) cells produced more than 100 mg/L VP in 24 h under all induction conditions tested. However, VP concentration in the fermentation broth decreased after 24 h. 
+
+![Figure 2](image-3.png)
+
+High final titer of VCAT production from rpoA14 (DE3) cells (module 1B) compared with BL21 (DE3) was obtained in AMM medium supplemented with 2% glucose at 30 °C `(Figure 3)`. The induction of 6 h post-inoculation showed the highest VCAT production (~ 350 mg/L) at 48h.
+
+ ![Figure 3](image-4.png)
+
+ In glucose supplemented AMM medium, production of C^G by BL21^tm star (DE3) strain (module 2) was achieved with induction at different time points `(Figure 4)`. The highest C3G production was 45 mb/L at 24 h with production decreasing after that, a phenomenon that has been observed extensively in our previous studies and which might be due to the degredation of anthocyanins at natural pH. 
+
+ ![Figure 4](image-5.png)
+
+ 
