@@ -82,3 +82,5 @@ The reaction products (pyranoanthocyanidin-3-O-glucoside-phenol and pyranocyanid
 ## HPLC-MS Analysis
 
 Chromatographic separation was performed on Agilent 1200 HPLC system (Agilent Technologies, Santa Clara, CA, USA) using Agilent ZORBAX Eclipse XDB-C18 (4.6 × 150 mm, 5μm) column, with injection volume of 5–8 μL. Water and acetonitrile each containing 0.2% formic acid were used as solvents A and B, respectively, at a flow rate of 250 μL/min, using the following gradients: 10–35% B (0−3min), 35–70% B (3−20min), 100% B (20–30 min) and 10% B (30–40min). Mass spectral analyses were performed on Thermo LTQ Orbitrap XL (Thermo, Bremen, Germany) instrument with electrospray ionization (ESI), positive-ion mode at the resolution of 30,000 and with mass accuracy better than 3 ppm in both MS and MSMS modes.
+
+# Results
