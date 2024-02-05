@@ -110,5 +110,5 @@ High final titer of VCAT production from rpoA14 (DE3) cells (module 1B) compared
 
 The same optimized conditions were accomplished for synthesis of 4-vinylcatechol-pyranoanthocyanins by reactions of C3G and VCAT at low pH and in the presence of ethanol. 
 
-
+## Formation of pyranoanthocyanins from E. coli co-cultures
 
